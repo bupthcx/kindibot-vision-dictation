@@ -1,0 +1,11 @@
+<launch>
+  <!-- 启动相机 -->
+  <include file="$(find ros_socket_node)/launch/camera.launch"/>
+
+  <!-- 启动听写节点 -->
+  <node name="dictation_node"
+        pkg="ros_socket_node"
+        type="dictation_full.py"
+        output="screen"
+        launch-prefix="python3 /home/lemon/robot_ws/dictation/"/>
+</launch>

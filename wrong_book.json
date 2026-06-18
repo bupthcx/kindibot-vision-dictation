@@ -1,0 +1,30 @@
+{
+  "山": {
+    "wrong": 0,
+    "correct": 4
+  },
+  "一": {
+    "wrong": 3,
+    "correct": 4
+  },
+  "二": {
+    "wrong": 0,
+    "correct": 4
+  },
+  "手": {
+    "wrong": 3,
+    "correct": 1
+  },
+  "十": {
+    "wrong": 0,
+    "correct": 1
+  },
+  "7": {
+    "wrong": 0,
+    "correct": 3
+  },
+  "三": {
+    "wrong": 1,
+    "correct": 0
+  }
+}

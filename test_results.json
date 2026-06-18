@@ -1,0 +1,184 @@
+[
+  {
+    "char": "一",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！如果能把横线写得更直一点就更好啦。",
+    "response_time": 0.78
+  },
+  {
+    "char": "二",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！如果下面的横线能再长一点就更完美啦！",
+    "response_time": 0.79
+  },
+  {
+    "char": "三",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！如果中间的横画再短一点就更像‘三’啦～",
+    "response_time": 0.8
+  },
+  {
+    "char": "十",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！竖线稍微往中间一点会更好哦。",
+    "response_time": 0.72
+  },
+  {
+    "char": "人",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！这个字看起来像一个可爱的小人，如果撇和捺能再分开一点就更完美啦！",
+    "response_time": 0.78
+  },
+  {
+    "char": "口",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！这个方方正正的形状就像一个可爱的‘口’字，下次可以试着让四个角更圆润一些哦。",
+    "response_time": 1.03
+  },
+  {
+    "char": "八",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！如果撇画再短一点，捺画再长一点就更像‘八’啦！",
+    "response_time": 5.71
+  },
+  {
+    "char": "工",
+    "level": "简单",
+    "correct": true,
+    "feedback": "你写得真棒！如果中间的竖画能稍微长一点，连接上下两横的中间位置就更完美啦！",
+    "response_time": 1.4
+  },
+  {
+    "char": "山",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！中间的竖线可以再高一点，这样‘山’字就更像了。",
+    "response_time": 1.1
+  },
+  {
+    "char": "水",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！中间的竖钩可以再长一点，这样会更像‘水’哦。",
+    "response_time": 0.79
+  },
+  {
+    "char": "火",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！‘火’字的形状已经很像了，如果能再把上面的两笔画得更分开一些，就更好看了！",
+    "response_time": 0.77
+  },
+  {
+    "char": "土",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！中间的竖画稍微往中间一点会更好哦。",
+    "response_time": 0.89
+  },
+  {
+    "char": "木",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！‘木’字的形状已经很像了，下次可以试着让横线画得更直一些哦。",
+    "response_time": 0.99
+  },
+  {
+    "char": "日",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！‘日’字的形状很像一个长方形，里面还有一横呢。如果能把下面的横画得更直一点就更好啦！",
+    "response_time": 0.99
+  },
+  {
+    "char": "月",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！‘月’字的形状很像月亮呢，如果能再把右边的折钩画得更圆润一点就更好啦～",
+    "response_time": 0.88
+  },
+  {
+    "char": "大",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！‘大’字的撇和捺可以再舒展一点，这样会更漂亮哦！",
+    "response_time": 0.98
+  },
+  {
+    "char": "上",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！如果下面的长横能再画得更直一点就更好啦。",
+    "response_time": 0.99
+  },
+  {
+    "char": "下",
+    "level": "中等",
+    "correct": true,
+    "feedback": "你写得真棒！如果能把下面的点画得更小一点就更好啦。",
+    "response_time": 1.0
+  },
+  {
+    "char": "手",
+    "level": "难",
+    "correct": false,
+    "feedback": "这个字看起来像'手'，但三横没有画得平行哦，下次试着让它们排整齐一点吧！",
+    "response_time": 1.13
+  },
+  {
+    "char": "耳",
+    "level": "难",
+    "correct": true,
+    "feedback": "你写得真棒！右边的三横可以再长一点，这样会更像‘耳’哦。",
+    "response_time": 0.73
+  },
+  {
+    "char": "目",
+    "level": "难",
+    "correct": true,
+    "feedback": "你写得真棒！如果里面的两横能稍微分开一点就更完美啦～",
+    "response_time": 0.87
+  },
+  {
+    "char": "田",
+    "level": "难",
+    "correct": true,
+    "feedback": "你写得真棒！如果能把中间的横线和竖线画得再直一点就更完美啦！",
+    "response_time": 0.8
+  },
+  {
+    "char": "左",
+    "level": "难",
+    "correct": true,
+    "feedback": "你写得真棒！‘左’字的上面一横和一撇都很清楚，如果下面的‘工’字能写得更稳一点就更好啦！",
+    "response_time": 1.53
+  },
+  {
+    "char": "右",
+    "level": "难",
+    "correct": true,
+    "feedback": "写得真棒！‘右’字的笔画都很清楚，下次可以试着让下面的‘口’字写得更圆润一些哦。",
+    "response_time": 0.78
+  },
+  {
+    "char": "头",
+    "level": "难",
+    "correct": true,
+    "feedback": "你写得真棒！‘头’字的形状已经很像了，下次可以试着让中间的撇捺画得更长一些哦。",
+    "response_time": 0.79
+  },
+  {
+    "char": "足",
+    "level": "难",
+    "correct": true,
+    "feedback": "你写得真棒！‘足’字的笔画都很清楚，如果能把下面的横折钩写得更圆润一些就更好啦！",
+    "response_time": 0.82
+  }
+]

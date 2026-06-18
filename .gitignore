@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+vosk-model-small-cn-0.22/
+vosk-model-small-cn-0.22.zip
+*.jpg
+*.jpeg
+*.png
+.vscode/
+.DS_Store
+Thumbs.db
